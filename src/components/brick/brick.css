@@ -1,0 +1,12 @@
+.brick-cont {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  margin: 10px;
+  font-weight: bold;
+
+  /* Center the text */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
